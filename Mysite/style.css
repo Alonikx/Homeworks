@@ -1,0 +1,19 @@
+body {
+    background-color: darkorange;
+}
+h2 {
+    text-align:center;
+    color: darkmagenta;
+}
+p {
+    text-align: center;
+    color:brown;
+}
+b {
+    background-color:cornflowerblue ;
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+h4 {
+    color: darkgreen;
+}
