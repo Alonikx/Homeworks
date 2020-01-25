@@ -1,0 +1,56 @@
+.article {
+    text-align: center;
+    padding: 100px 0px 125px 0px;
+    font-family: ProximaNova;
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0px;
+}
+.block_1 {
+  display: flex;
+  justify-content: center;
+}
+.image{
+  padding: 0px 73px 25px 0px;
+
+}
+.image_1 {
+  padding: 0px 73px 25px 0px;
+
+}
+.image_2 {
+  padding: 0px 73px 25px 0px;
+
+}
+.image_3 {
+  padding: 0px 0px 25px 0px;
+
+}
+p{
+  margin: 0px;
+  
+}
+.text {
+padding: 0px 0px 25px 56px;
+font-family: ProximaNova;
+font-size: 16px;
+font-weight: 300;
+
+}
+.cost {
+  font-family: ProximaNova;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 0px 0px 25px 60px;
+}
+.buy {
+  font-family: ProximaNova;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #23bac1;
+  width: 200px;
+height: 55px;
+border: 1.0px solid #23bac1;
+margin: 0px 93px 0px 0px;
+}
