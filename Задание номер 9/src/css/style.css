@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+p {
+    text-align: center;
+    max-width: 122px;
+    max-height: 32px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #333333;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 70px;
+    padding-bottom: 82px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #333333;
+}
+img{
+    padding-left: 24px;
+    padding-bottom: 21px;
+}
